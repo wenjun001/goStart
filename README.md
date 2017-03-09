@@ -1,4 +1,4 @@
-*** This project illustrate project struction for go language. 
+### This project illustrate project struction for go language. 
 src is code folder.
 and there are 2 folder one is main folder named sored and other is algorithm that is for bubble and quick sort implment. 
 
@@ -16,6 +16,7 @@ How to run this code:
 
 Finally run it 
 
+````bath
 ./sorter -i unsorted.dat -o sorted.dat -a qsort
 
 unsorted.dat contains some data such as:
@@ -27,3 +28,4 @@ unsorted.dat contains some data such as:
 232
 23
 33
+````
